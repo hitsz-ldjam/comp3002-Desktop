@@ -1,0 +1,13 @@
+{
+  "name": "zebra",
+  "version": "0.1.0",
+  "description": "Desktop backend for Zebra Note Book(ZNB)",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hz",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  }
+}
